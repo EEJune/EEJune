@@ -2,6 +2,7 @@
 I am majoring in computer science
 
 I have completed many practical assignments so far, but I have been storing my code repositories on my laptop because I am not familiar with how to use git and GitHub.
+Such as Data Structure code,Frontend,Backend,BaekJoon code
 
 However, I am currently learning how to use Git properly.
 
