@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=blur&color=gradient&height=300&section=header&text=EEJune's%20github%20%F0%9F%A4%97&fontColor=d6ace6)
+![header](https://capsule-render.vercel.app/api?type=blur&color=gradient&height=300&section=header&text=EEJune's%20github&fontColor=d6ace6)
 
 <div align="center">
 <a href="https://profile.intra.42.fr/" target="_blank">
