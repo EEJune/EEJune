@@ -10,7 +10,7 @@ When this course is over, expect my profile introduction and GitHub contribution
 
 <a href="https://profile.intra.42.fr/" target="_blank">
     <img src="https://img.shields.io/badge/lseo-000000?style=for-the-badge&logo=42&logoColor=FFFFFF" 
-         style="width: 250px; height: 250px;color: #000000;" 
+         style="width: 150px; height: 150px;color: #000000;" 
          alt="42 뱃지">
 </a>
 
