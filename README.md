@@ -14,7 +14,7 @@
 <a target="_blank"><img src="https://img.shields.io/badge/css-663399?style=flat&logo=css&logoColor=FFFFFF"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=FFFFFF"/></a>
 </div>
-<div>
+<div align="center">
     
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EEjune&show_icons=true&theme=synthwave)
     
