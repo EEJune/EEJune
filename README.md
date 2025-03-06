@@ -14,6 +14,7 @@ When this course is over, expect my profile introduction and GitHub contribution
          font-size: 5px>
 </a>
 <h3 align="center">✨ Tech Stack ✨</h3>
+<div></div>
 <a target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=FFFFFF"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=FFFFFF"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=FFFFFF"/></a>
