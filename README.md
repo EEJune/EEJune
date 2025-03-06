@@ -14,7 +14,7 @@ When this course is over, expect my profile introduction and GitHub contribution
          font-size: 5px>
 </a>
 
-<a href="https://profile.intra.42.fr/" target="_blank"><img src="https://img.shields.io/badge/C-배경색?style=flat&logo=c&logoColor=로고색상"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/C-#A8B9CC?style=flat&logo=c&logoColor=FFFFFF"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/C++-배경색?style=flat&logo=cplusplus&logoColor=로고색상"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/python-배경색?style=flat&logo=python&logoColor=로고색상"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/html-배경색?style=flat&logo=html5&logoColor=로고색상"/></a>
