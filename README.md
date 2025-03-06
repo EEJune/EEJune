@@ -9,7 +9,7 @@ However, I am currently learning how to use Git properly.
 When this course is over, expect my profile introduction and GitHub contributions to be beautifully decorated. Looking forward to it
 
 <a href="https://profile.intra.42.fr/" target="_blank">
-    <img src="https://img.shields.io/badge/lseo?style=for-the-badge&logo=42&logoColor=black">
+    <img src="https://img.shields.io/badge/lseo?style=for-the-badge&logo=42&logoColor=FFFFFF">
 </a>
 
 
