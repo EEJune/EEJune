@@ -8,4 +8,4 @@ However, I am currently learning how to use Git properly.
 
 When this course is over, expect my profile introduction and GitHub contributions to be beautifully decorated. Looking forward to it
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=사용자ID&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EEjune&show_icons=true&theme=radical)
