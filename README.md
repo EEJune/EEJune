@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=blur&color=gradient&height=300&section=header&text=EEJune's%20github&fontColor=d6ace6)
 
 <div align="center">
-<a href="https://profile.intra.42.fr/" target="_blank">
+    <h3>Tech course</h3>
+    <a href="https://profile.intra.42.fr/" target="_blank">
     <img src="https://img.shields.io/badge/lseo-000000?style=for-the-badge&logo=42&logoColor=FFFFFF" 
          style="width: 120px; height: 80px;color: #000000;" 
          font-size: 5px>
