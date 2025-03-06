@@ -1,11 +1,12 @@
-### Hi there 👋 I'm lee June
+<div align="center">### Hi there 👋 I'm lee June</div>
 
+<div align="center">
 <a href="https://profile.intra.42.fr/" target="_blank">
     <img src="https://img.shields.io/badge/lseo-000000?style=for-the-badge&logo=42&logoColor=FFFFFF" 
          style="width: 120px; height: 80px;color: #000000;" 
          font-size: 5px>
 </a>
-<h3 align="center">✨ Tech Stack ✨</h3>
+</div>
 <div align="center">
 <h3>✨ Tech Stack ✨</h3>
 <a target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=FFFFFF"/></a>
