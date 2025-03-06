@@ -14,6 +14,11 @@ When this course is over, expect my profile introduction and GitHub contribution
          font-size: 5px>
 </a>
 
-
+<a target="_blank"><img src="https://img.shields.io/badge/C-배경색?style=flat&logo=c&logoColor=로고색상"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/C++-배경색?style=flat&logo=cplusplus&logoColor=로고색상"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/python-배경색?style=flat&logo=python&logoColor=로고색상"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/html-배경색?style=flat&logo=html5&logoColor=로고색상"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/css-배경색?style=flat&logo=css&logoColor=로고색상"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/Javascript-배경색?style=flat&logo=javascript&logoColor=로고색상"/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EEjune&show_icons=true&theme=radical)
