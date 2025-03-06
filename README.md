@@ -15,10 +15,10 @@ When this course is over, expect my profile introduction and GitHub contribution
 </a>
 
 <a target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=FFFFFF"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/C++-배경색?style=flat&logo=cplusplus&logoColor=로고색상"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/python-배경색?style=flat&logo=python&logoColor=로고색상"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/html-배경색?style=flat&logo=html5&logoColor=로고색상"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/css-배경색?style=flat&logo=css&logoColor=로고색상"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/Javascript-배경색?style=flat&logo=javascript&logoColor=로고색상"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=FFFFFF"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=FFFFFF"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/html-E34F26?style=flat&logo=html5&logoColor=FFFFFF"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/css-663399?style=flat&logo=css&logoColor=FFFFFF"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=FFFFFF"/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EEjune&show_icons=true&theme=radical)
