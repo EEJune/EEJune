@@ -1,4 +1,6 @@
-<div align="center">### Hi there 👋 I'm lee June</div>
+<div align="center">
+    ![header](https://capsule-render.vercel.app/api?type=waving)
+</div>
 
 <div align="center">
 <a href="https://profile.intra.42.fr/" target="_blank">
