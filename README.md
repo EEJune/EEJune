@@ -19,7 +19,7 @@
 </div>
 </br>
 <div align="center">
-<h3>## 🤔 Github Stats</h3>
+<h3> 🤔 Github Stats 🤔</h3>
     
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EEjune&show_icons=true&theme=synthwave)
     
